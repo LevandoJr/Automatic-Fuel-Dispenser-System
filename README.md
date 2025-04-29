@@ -5,7 +5,7 @@ It depensers fuel at a rate of 5 cedis per liter.
 Components used in this Project:
 * ESP32 Microcontroller
 * RFID reader and card  used for card transaction
-* 8 by 8 keypad
-* 20 by 4 I2C LCD
+* 4 by 4 Matrix keypad
+* 4 by 20 I2C LCD
 * YF-S201 Water Flow Sensor
 * 240L/H 12V micro water pump  
